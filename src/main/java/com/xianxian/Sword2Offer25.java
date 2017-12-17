@@ -8,7 +8,7 @@ import java.util.ArrayList;
  路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。
  * @author smartxian
  */
-public class 二叉树中和为某一值的路径 {
+public class Sword2Offer25 {
 
     ArrayList<ArrayList<Integer>> pathlist = new ArrayList<ArrayList<Integer>>();
     ArrayList<Integer> list = new ArrayList<Integer>();
